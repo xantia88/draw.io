@@ -9,3 +9,5 @@ https://app.diagrams.net/?splash=0&libs=general&clibs=Uhttps://raw.githubusercon
 Сокращенная с помощью сервиса Yandex ссылка:
 
 https://clck.ru/3Dp8UJ
+
+https://app.diagrams.net/?splash=0&libs=general&clibs=Uhttps://raw.githubusercontent.com/xantia88/draw.io/refs/heads/main/plugins/generalized/DKA-Systems.xml
