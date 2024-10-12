@@ -5,3 +5,4 @@
 Ссылка, которую можно добавить как ярлык или закладку в браузер:
 
 https://app.diagrams.net/?splash=0&libs=general&clibs=Uhttps://raw.githubusercontent.com/xantia88/draw.io/refs/heads/main/plugins/generalized/DKA-Systems.xml;Uhttps://raw.githubusercontent.com/xantia88/draw.io/refs/heads/main/plugins/generalized/DKA-Functions.xml
+
